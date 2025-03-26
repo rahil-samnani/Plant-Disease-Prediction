@@ -1,0 +1,7 @@
+# Ignore dataset folders
+test/
+train/
+valid/
+
+# Ignore hidden folders (starting with a dot)
+.*/
